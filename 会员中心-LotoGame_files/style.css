@@ -2711,6 +2711,6 @@ span.terms-text {
     }
 }
 
-td{
+.zc_main table tr td input {
     min-width: 21px;
 }
