@@ -2692,3 +2692,21 @@ span.terms-text {
 /*--------------------------------*/
 /* .End CSS
 /*--------------------------------*/
+
+@media all and (max-device-width: 720px){
+    .zc_main {
+        font-size: 14px;
+    }
+}
+
+@media all and (max-device-width: 640px){
+    .zc_main {
+        font-size: 12px;
+    }
+}
+
+@media all and (max-device-width: 320px){
+    .zc_main {
+        font-size: 10px;
+    }
+}
