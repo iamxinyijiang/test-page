@@ -2710,3 +2710,7 @@ span.terms-text {
         font-size: 8px;
     }
 }
+
+.td{
+    min-width: 11px;
+}
